@@ -16,4 +16,4 @@
 - [ ] Implamentação de métodos limpeza/clear
 - [ ] Implamentação de métodos ping
 
-* Obs: O teste consiste na verificação do arquivo de "log" 'text_main.txt', onde caso o bot ligue normalmente, é criado o arquivo e caso ao contrário além de criado é inserido texto.
+> ###### Obs: O teste consiste na verificação do arquivo de "log" 'text_main.txt', onde caso o bot ligue normalmente, é criado o arquivo e caso ao contrário além de criado é inserido texto.
