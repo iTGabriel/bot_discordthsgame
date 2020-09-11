@@ -1,8 +1,5 @@
-import discord
-import asyncio
-import services.bot as bot
-
-SECRET_TOKEN = "SEU TOKEN"
+from dotenv import load_dotenv
+import discord, asyncio, settings,  services.bot as bot
 
 client = discord.Client()
 
@@ -115,7 +112,9 @@ async def on_message(message):
 # async def on_message_delete(message):
 #     await message.channel.send(f"Mensagme excluida: {message.author}")
 
-client.run(SECRET_TOKEN)
+
+client.run(settings.SECRET_TOKEN)
+
 
 # itgabriel
 # devleirbagg
