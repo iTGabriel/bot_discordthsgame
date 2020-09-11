@@ -1,4 +1,4 @@
-# Legog-g  | ChatBot discord ![](https://travis-ci.org/iTGabriel/bot_discordthsgame.svg?branch=master)
+# Legog-g  | ChatBot discord - ![](https://travis-ci.org/iTGabriel/bot_discordthsgame.svg?branch=master) [![Run on Repl.it](https://repl.it/badge/github/iTGabriel/bot_discordthsgame)](https://repl.it/github/iTGabriel/bot_discordthsgame)
 
 ###### Projeto pratico na criação de um chatbot, onde tem como objetivo auxiliar tipos de usuários voltado para o mundo gamer(mas também podem atender outros).
 
@@ -10,7 +10,7 @@
 - [ ] Métodos de limpeza/clear
 - [ ] Métodos de ping(latencia da rede do usuário)
 
-## Implementação
+## Implementação    
 - [x] Implementação de teste 
 - [x] Implamentação de métodos ajuda (Temporariamente desativado)
 - [ ] Implamentação de métodos limpeza/clear
