@@ -1,6 +1,6 @@
 # Legog-g  | ChatBot discord ![](https://travis-ci.org/iTGabriel/bot_discordthsgame.svg?branch=master)
 
-###### Projeto de pratica na criação de um chatbot, onde tem como objetivo auxiliar o usuário.
+###### Projeto pratico na criação de um chatbot, onde tem como objetivo auxiliar tipos de usuários voltado para o mundo gamer(mas também podem atender outros).
 
 ### Fase inicial
 
@@ -16,4 +16,4 @@
 - [ ] Implamentação de métodos limpeza/clear
 - [ ] Implamentação de métodos ping
 
-> ###### Obs: O teste consiste na verificação do arquivo de "log" 'text_main.txt', onde caso o bot ligue normalmente, é criado o arquivo e caso ao contrário além de criado é inserido texto.
+> ###### Obs: O teste consiste na verificação do arquivo de "log"='text_main.txt', onde caso o bot ligue normalmente, é criado o arquivo e caso ao contrário além de criado é inserido texto.
