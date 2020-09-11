@@ -1,5 +1,7 @@
 [tool.poetry]
 name = "Legog-bot-discord"
+version = "1.0.0"
+description = ""
 authors = ["Gabriel Gustavo <gabriel.gustavo.s@hotmail.com>"]
 
 [tool.poetry.dependencies]
