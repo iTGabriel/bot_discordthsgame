@@ -2,7 +2,7 @@ import discord
 import asyncio
 import services.bot as bot
 
-tokenbot = "SEU TOKEN"
+SECRET_TOKEN = "SEU TOKEN"
 
 client = discord.Client()
 
@@ -115,7 +115,7 @@ async def on_message(message):
 # async def on_message_delete(message):
 #     await message.channel.send(f"Mensagme excluida: {message.author}")
 
-client.run(tokenbot)
+client.run(SECRET_TOKEN)
 
 # itgabriel
 # devleirbagg
