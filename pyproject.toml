@@ -5,6 +5,8 @@ description = ""
 authors = ["Gabriel Gustavo <gabriel.gustavo.s@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python= "^3.5"
-dotenv-python= "^0.0.0"
-discord= "^1.0.0"
+discord = "^1.0.0"
+flask = "^1.1.2"
+pytest = "^6.0.1"
+python = "3.5"
+python-dotenv = "^0.14.0"

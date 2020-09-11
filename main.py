@@ -1,8 +1,8 @@
 from dotenv import load_dotenv
 import discord, asyncio, settings, services.bot as bot
+from webserver import keep_alive
 
 client = discord.Client()
-
 
 @client.event
 async def on_ready():
@@ -90,6 +90,8 @@ def start_server(token):
         log.write("Falha ao ligar o servidor")
         log.close()
 
+
+keep_alive()
 start_server(settings.SECRET_TOKEN)
 
 
