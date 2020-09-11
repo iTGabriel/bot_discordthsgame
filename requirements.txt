@@ -1,2 +1,2 @@
-virtualenv
-discrod.py
+virtualenv==20.0.31
+discord.py==1.4.1
