@@ -11,7 +11,8 @@
 - [ ] Métodos de ping(latencia da rede do usuário)
 
 ## Implementação
-- [x] Implementação de teste
+- [x] Implementação de teste 
+###### O teste consiste na verificação do arquivo de "log" 'text_main.txt', onde caso de falha é inserido texto dentro do mesmo e ao contrário somente o cria.
 - [x] Implamentação de métodos ajuda (Temporariamente desativado)
 - [ ] Implamentação de métodos limpeza/clear
 - [ ] Implamentação de métodos ping
