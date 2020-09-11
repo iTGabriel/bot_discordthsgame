@@ -1,4 +1,4 @@
-# Legog-g  | ChatBot discord
+# Legog-g  | ChatBot discord ![](https://travis-ci.org/iTGabriel/bot_discordthsgame.svg?branch=master)
 
 ###### Projeto de pratica na criação de um chatbot, onde tem como objetivo auxiliar o usuário.
 
